@@ -1,8 +1,9 @@
-Chess_Game
+**Chess_Game**
 
 This is a simple, interactive chess game built using Js, HTML, and CSS. It allows 2 players to play chess in a browser, with turn-based movement and piece validation.
 
-It Contains Features Like : 
+
+**It Contains Features Like : **
 
   *Fully functional 8x8 chessboard.
   
@@ -15,7 +16,7 @@ It Contains Features Like :
   *Simple yet elegant UI with CSS styling.
 
 
-How to Play :
+**How to Play :**
 
 1.Open index.html in a browser.
 
